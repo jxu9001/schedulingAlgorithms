@@ -1,0 +1,23 @@
+Feedback
+A B C D E 
+X         
+  X       
+X         
+  X       
+    X     
+    X     
+X         
+      X   
+        X 
+      X   
+        X 
+  X       
+    X     
+      X   
+  X       
+    X     
+      X   
+    X     
+      X   
+    X     
+DONE
